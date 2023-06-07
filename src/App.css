@@ -1,0 +1,35 @@
+body{
+    background: url(./img/photo_2023-06-07_18-34-43.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    background: url(./img/photo_2023-06-07_18-34-43.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 200px;
+}
+h1{
+    color: white;
+}
+
+button{
+    background: #00ffff36;
+    border-radius: 15px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    color: white;
+
+}
+.all{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    backdrop-filter: blur(4px); /* Размываем фон */
+    background: rgba(255,255,255,0.4);
+}
+
+.text{
+    padding-top: 50px;
+}
